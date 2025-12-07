@@ -1,0 +1,3 @@
+local addon, DBM_Disease = ...
+
+DBM_Disease.data = { }
