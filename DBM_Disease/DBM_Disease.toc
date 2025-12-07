@@ -1,0 +1,47 @@
+## Interface: 110007, 110100
+## Category: DBM
+## Title:|cffffe00a<|r|cffff7d0aDBM Mod|r|cffffe00a>|r |cffff6010M+ Disease|r
+## Title-koKR:|cffffe00a<|r|cffff7d0aDBM Mod|r|cffffe00a>|r |cffff6010질병|r
+## Title-ruRU:|cffffe00a<|r|cffff7d0aDBM Мод|r|cffffe00a>|r |cffff6010М+ Болезни|r
+## Title-zhTW:|cffffe00a<|r|cffff7d0aDBM Mod|r|cffffe00a>|r |cffff6010疾病|r
+## Title-zhCN:|cffffe00a<|r|cffff7d0aDBM Mod|r|cffffe00a>|r |cffff6010疾病|r
+## Title-esES:|cffffe00a<|r|cffff7d0aDBM Mod|r|cffffe00a>|r |cffff6010M+ Disease|r
+## Title-esMX:|cffffe00a<|r|cffff7d0aDBM Mod|r|cffffe00a>|r |cffff6010M+ Disease|r
+## Title-ptBR:|cffffe00a<|r|cffff7d0aDBM Mod|r|cffffe00a>|r |cffff6010M+ Disease|r
+## Title-frFR:|cffffe00a<|r|cffff7d0aDBM Mod|r|cffffe00a>|r |cffff6010M+ Disease|r
+## Author: MysticalOS
+## SavedVariables: DBMAffliction_AllSavedVars
+## IconTexture: Interface\AddOns\DBM-Core\textures\dbm_airhorn
+## X-DBM-Mod: 1
+## X-DBM-Mod-Type: PARTY
+## X-DBM-Mod-Category: DRAGONFLIGHT
+## X-DBM-Mod-No-Statistics: 1
+## X-DBM-Mod-Name: M+ Disease
+## X-DBM-Mod-Name-koKR: 질병
+## X-DBM-Mod-Name-ruRU: М+ Болезни
+## X-DBM-Mod-Name-esES: М+ Disease
+## X-DBM-Mod-Name-esMX: М+ Disease
+## X-DBM-Mod-Name-ptBR: М+ Disease
+## X-DBM-Mod-Name-frFR: М+ Disease
+## X-DBM-Mod-MapID: 2516, 2526, 2515, 2521, 2527, 2519, 2451, 2520, 2652, 2662, 2660, 2669, 670, 1822, 2286, 2290, 2773
+## X-DBM-Mod-Sort: 211
+## X-DBM-Mod-MinCoreRevision: 12473
+ 
+## SavedVariablesPerCharacter: DBM_Disease_storage, DBM_Disease_pos
+
+love.lua
+
+libs\LibStub-1.0\LibStub.lua
+
+
+libs\CallbackHandler-1.0\CallbackHandler-1.0.xml
+libs\LibSharedMedia-3.0\LibSharedMedia-3.0.lua
+libs\LibRangeCheck-2.0\LibRangeCheck-2.0.lua
+libs\DiesalTools-1.0\DiesalTools-1.0.lua
+libs\DiesalStyle-1.0\DiesalStyle-1.0.lua
+libs\DiesalGUI-1.0\DiesalGUI-1.0.xml
+libs\DiesalMenu-1.0\DiesalMenu-1.0.xml
+
+
+Why.xml 
+GlobalAddonHooks.lua

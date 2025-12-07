@@ -1,0 +1,43 @@
+	<Ui xmlns="http://www.blizzard.com/wow/ui/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.blizzard.com/wow/ui/
+..\FrameXML\UI.xsd">
+	<Script file="Butwhy\Core\system\support\init.lua" />
+	<Script file="Butwhy\Core\system\support\ext.lua" />
+	<Script file="Butwhy\Core\system\interface\interface.lua" />
+	<Script file="Butwhy\Core\system\interface\color.lua" />
+	<Script file="Butwhy\Core\system\support\logger.lua" />
+	<Script file="Butwhy\Core\system\support\event.lua" />
+	<Script file="Butwhy\Core\system\support\storage.lua" />
+	<Script file="Butwhy\Core\system\support\commands.lua" />
+	<Script file="Butwhy\Core\system\support\data\data.lua" />
+	<Script file="Butwhy\Core\system\support\data\removables.lua" />
+	<Script file="Butwhy\Core\system\interface\window.lua" />
+	<Script file="Butwhy\Core\system\interface\buttons.lua" />
+	<Script file="Butwhy\Core\system\Misc\Listener.lua" />
+	<Script file="Butwhy\Core\system\Misc\RangeFinder.lua" />
+	<Script file="Butwhy\Core\system\Misc\Guardian.lua" />
+	<Script file="Butwhy\Core\system\environment\environment.lua" />
+	<Script file="Butwhy\Core\system\environment\logical.lua" />
+	<Script file="Butwhy\Core\system\environment\virtual.lua" />
+	<Script file="Butwhy\Core\system\environment\cast.lua" />
+	<Script file="Butwhy\Core\system\environment\modifiers.lua" />
+	<Script file="Butwhy\Core\system\environment\buff.lua" />
+	<Script file="Butwhy\Core\system\environment\debuff.lua" />
+	<Script file="Butwhy\Core\system\environment\health.lua" />
+	<Script file="Butwhy\Core\system\environment\runes.lua" />
+	<Script file="Butwhy\Core\system\environment\powertype.lua" />
+	<Script file="Butwhy\Core\system\environment\power.lua" />
+	<Script file="Butwhy\Core\system\environment\spell.lua" />
+	<Script file="Butwhy\Core\system\environment\group.lua" />
+	<Script file="Butwhy\Core\system\environment\enemies.lua" />
+	<Script file="Butwhy\Core\system\environment\unit.lua" />
+	<Script file="Butwhy\Core\system\rotation\rotation.lua" />
+	<Script file="Butwhy\Core\system\rotation\timer.lua" />
+	<Script file="Butwhy\Core\system\support\patches.lua" />
+	<Script file="Butwhy\Core\system\support\ready.lua" />
+	<Script file="Butwhy\Support\LoginFrame.lua" />
+	<Script file="Butwhy\Support\Support.lua" />
+	
+	<Script file="Butwhy\Hekili\Hekili.lua"/>
+ 
+	<Script file="Butwhy\Core\system\environment\IdTip.lua" />
+</Ui>
