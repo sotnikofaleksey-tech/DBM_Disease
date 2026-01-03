@@ -1,0 +1,18 @@
+## Interface: 70300
+## Title: DBM_Disease
+## Author: Barny
+## Version: 1.0
+
+Core.lua
+Modules\Shaman.lua
+Modules\DemonHunter.lua
+Modules\Monk.lua
+Modules\Warrior.lua
+Modules\Mage.lua
+Modules\Druid.lua
+Modules\Paladin.lua
+Modules\Hunter.lua
+Modules\Rogue.lua
+Modules\Warlock.lua
+Modules\Priest.lua
+Modules\DeathKnight.lua
