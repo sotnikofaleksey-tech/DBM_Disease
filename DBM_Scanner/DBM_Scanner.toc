@@ -1,0 +1,17 @@
+## Interface: 70300
+## Title: DBM Scanner
+## Author: Barny
+## Version: 1.0.0
+## SavedVariables: DBM_Scanner_AI_SaveData, DBM_Scanner_Training_Stats, DBM_Scanner_UI_Position
+## SavedVariablesPerCharacter: DBM_Scanner_Settings
+
+DBM_Scanner.lua
+DBM_Scanner_AI.lua
+DBM_Scanner_Spells.lua
+DBM_Scanner_Training.lua
+DBM_Scanner_UI.lua
+DBM_Scanner_Performance.lua
+DBM_Scanner_SpellDetector.lua
+
+Modules\DBM_Scanner_Template.lua
+Modules\DBM_Scanner_Shaman.lua
